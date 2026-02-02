@@ -28,5 +28,5 @@ It uses Deep Learning (PyTorch) and Flask to provide fast and accurate predictio
 
 ---
 
-## 📁 Project Structure
+
 
